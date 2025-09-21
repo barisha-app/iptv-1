@@ -107,3 +107,5 @@ https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 https://tv.ensonhaber.com/benguturk/benguturk_720p.m3u8
 #EXTINF:-1 tvg-name="TURKHABER"tvg-id="TurkHaberTV.tr"tvg-logo="https://i.ibb.co/ySv65wg/turk-haber.png"group-title="HABER":http-user-agent="",TURKHABER
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="TURKHABER"tvg-id="TurkHaberTV.tr"tvg-logo="https://i.ibb.co/ySv65wg/turk-haber.png"group-title="HABER":http-user-agent="",TURKHABER
+https://n10.cdn.trafficdok.com/uploads/video/media/480/4/8/195384/v1/1.mp4
